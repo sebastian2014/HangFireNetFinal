@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\HangFireNet6.props" />
+</Project>
